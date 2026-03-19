@@ -1,0 +1,21 @@
+---
+title: "Intercultural Communication — Marcoms in Slovakia"
+date: 2024-09-10
+description: "A session on Intercultural Communication and Presentation Skills — introducing a postgraduate program in Marketing Communications from Slovakia."
+image: ../images/c1.jpg
+presenter: "Lucia Dancisinova, Eva Benkova"
+categories: [guest-lecture, intercultural]
+---
+
+**Presented by:** Lucia Dančišinová and Eva Beňková
+
+This session introduced a postgraduate program similar to our Master's in Marketing Communications, focusing on intercultural communication and presentation skills in a Slovak context.
+
+## Photos
+
+::: {layout-ncol=2}
+![](../images/c1.jpg)
+![](../images/c2.jpg)
+![](../images/c3.jpg)
+![](../images/c4.jpg)
+:::

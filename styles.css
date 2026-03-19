@@ -1,0 +1,163 @@
+/*-- scss:rules --*/
+
+/* ═══════════════════════════════════════════════════
+   XDMarComs v2 — styles.css
+   Overrides applied on top of Quarto's flatly theme.
+   Do not add inline <style> blocks to any .qmd file.
+   ═══════════════════════════════════════════════════ */
+
+/* ── 1. Design tokens ──────────────────────────────── */
+:root {
+  --brand-dark:   #1d2e3f;   /* navbar, hero */
+  --brand-accent: #16537e;   /* links, headings, highlights */
+  --brand-light:  #f4f7fa;   /* page backgrounds, card backgrounds */
+  --text-main:    #222222;
+  --text-muted:   #6c757d;
+  --radius:       8px;
+  --shadow:       0 2px 12px rgba(0, 0, 0, 0.08);
+  --spacing-unit: 1.5rem;
+}
+
+/* ── 2. Typography ─────────────────────────────────── */
+body {
+  color: var(--text-main);
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  color: var(--brand-dark);
+  font-weight: 600;
+}
+
+a {
+  color: var(--brand-accent);
+}
+
+a:hover {
+  color: var(--brand-dark);
+}
+
+/* ── 3. Navbar ─────────────────────────────────────── */
+/* Flatly's navbar is overridden via _quarto.yml
+   background/foreground settings. Add tweaks here only
+   if needed after first render. */
+
+/* ── 4. Faculty cards ──────────────────────────────── */
+.member-card {
+  display: grid;
+  grid-template-columns: 160px 1fr;
+  gap: 1.5rem;
+  padding: var(--spacing-unit) 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.member-card img {
+  width: 160px;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border-radius: var(--radius);
+}
+
+.member-card h3 {
+  margin: 0 0 0.25rem;
+  font-size: 1.05rem;
+  color: var(--brand-accent);
+}
+
+.member-card .role {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin-bottom: 0.75rem;
+}
+
+.member-card ul {
+  padding-left: 1.2rem;
+  margin-bottom: 0.75rem;
+  font-size: 0.95rem;
+}
+
+@media (max-width: 640px) {
+  .member-card {
+    grid-template-columns: 1fr;
+  }
+  .member-card img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+  }
+}
+
+/* ── 5. Course blocks ──────────────────────────────── */
+.course-block {
+  padding: var(--spacing-unit) 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.course-block h3 {
+  font-size: 1rem;
+  color: var(--brand-accent);
+  margin-bottom: 0.4rem;
+}
+
+.course-block .objective {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-top: 0.5rem;
+}
+
+/* ── 6. Events listing ─────────────────────────────── */
+/* Quarto's built-in listing grid handles layout.
+   Override card appearance here. */
+.quarto-listing .card {
+  border: none;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  transition: box-shadow 0.2s ease;
+}
+
+.quarto-listing .card:hover {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.13);
+}
+
+.quarto-listing .card-title a {
+  color: var(--brand-accent);
+  font-weight: 600;
+}
+
+/* ── 7. Homepage hero ──────────────────────────────── */
+.hero-banner {
+  background: var(--brand-dark);
+  color: white;
+  padding: 5rem 2rem;
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.hero-banner h1 {
+  color: white;
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.hero-banner p {
+  font-size: 1.1rem;
+  opacity: 0.85;
+  max-width: 600px;
+  margin: 0 auto 1.5rem;
+}
+
+.btn-hero {
+  display: inline-block;
+  background: var(--brand-accent);
+  color: white;
+  padding: 0.75rem 2rem;
+  border-radius: var(--radius);
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.2s ease;
+}
+
+.btn-hero:hover {
+  background: #1a6fa0;
+  color: white;
+}

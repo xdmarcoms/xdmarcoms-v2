@@ -1,0 +1,28 @@
+---
+title: "Shaping the Wine Tourism Identity & Image of Cyprus"
+date: 2024-10-20
+description: "A seminar examining wine tourism identity and digital branding in Cyprus, organized with the Institute of Agricultural Economics and Sociology (ELGO-DIMITRA)."
+image: ../images/b1.jpg
+presenter: "Dr. Maria Alempaki, Elina Christofidou, Ilias Makridis, Michalis Georgiou"
+categories: [seminar, tourism, branding]
+---
+
+**Keynote speakers:**
+
+- Dr. Maria Alempaki – Senior Researcher, Institute of Agricultural Economics and Sociology, ELGO-DIMITRA
+- Elina Christofidou – Tourism Officer, Deputy Ministry of Tourism of Cyprus
+- Ilias Makridis – Operations Coordinator, Cyprus Wine Core
+- Michalis Georgiou – Wine Journalist
+
+As part of the MSc in Experiential Digital Marketing Communications (XDMarComs@CUT), this seminar—organized with ELGO-DIMITRA and supervised by Dr. Maria Alempaki—examines wine tourism identity and digital branding in Cyprus.
+
+## Photos
+
+::: {layout-ncol=3}
+![](../images/b1.jpg)
+![](../images/b2.jpg)
+![](../images/b3.jpg)
+![](../images/b4.jpg)
+![](../images/b5.jpg)
+![](../images/b6.jpg)
+:::

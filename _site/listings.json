@@ -1,0 +1,28 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/events/lobbying-cyprus.html",
+      "/events/wine-tourism.html",
+      "/events/intercultural-comms.html",
+      "/events/india-marketing.html"
+    ]
+  },
+  {
+    "listing": "/programme.html",
+    "items": []
+  },
+  {
+    "listing": "/events.html",
+    "items": [
+      "/events/lobbying-cyprus.html",
+      "/events/wine-tourism.html",
+      "/events/intercultural-comms.html",
+      "/events/india-marketing.html"
+    ]
+  },
+  {
+    "listing": "/faculty.html",
+    "items": []
+  }
+]

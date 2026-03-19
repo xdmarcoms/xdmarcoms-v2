@@ -1,0 +1,21 @@
+---
+title: "The Marketing and Media Landscapes of India"
+date: 2024-08-05
+description: "A session focusing on Indian communication strategies and the marketing and media landscape, expanding the international scope of the programme."
+image: ../images/d1.jpg
+presenter: "Geeta Marmaat"
+categories: [guest-lecture, international]
+---
+
+**Presented by:** Geeta Marmaat
+
+This session focused on Indian communication strategies and the marketing and media landscape. A visit to their university further enhanced the international scope of the programme.
+
+## Photos
+
+::: {layout-ncol=2}
+![](../images/d1.jpg)
+![](../images/d2.jpg)
+![](../images/d3.jpg)
+![](../images/d4.jpg)
+:::

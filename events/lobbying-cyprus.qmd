@@ -1,0 +1,21 @@
+---
+title: "Lobbying and Public Affairs in Cyprus"
+date: 2024-11-15
+description: "A presentation on the role of lobbying in influencing government decisions and shaping public perception in Cyprus."
+image: ../images/a1.jpg
+presenter: "Mairy Pyrgou, MSc — Public Affairs Consultant, President of Fimonoi"
+categories: [guest-lecture, public-affairs]
+---
+
+**Presented by:** Mairy Pyrgou, MSc — Public Affairs Consultant, President of Fimonoi
+
+This presentation took place as part of the Reputation and Media Management course, focusing on the role of lobbying in influencing government decisions and shaping public perception in Cyprus.
+
+## Photos
+
+::: {layout-ncol=2}
+![](../images/a1.jpg)
+![](../images/a2.jpg)
+![](../images/a3.jpg)
+![](../images/a4.jpg)
+:::

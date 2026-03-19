@@ -1,0 +1,44 @@
+---
+title: ""
+page-layout: full
+listing:
+  - id: recent-events
+    contents: events
+    type: grid
+    max-items: 2
+    sort: "date desc"
+    fields: [image, date, title, description]
+---
+
+::: {.hero-banner}
+# MSc in Experiential Digital Marketing Communications
+
+**XDMarComs @ CUT** · Cyprus University of Technology
+
+[Apply Now](applications.qmd){.btn-hero}
+:::
+
+---
+
+## About the Programme
+
+To foster a student-centric, innovation-driven learning environment where individuals thrive academically, professionally, and personally. The programme develops:
+
+- Advanced skills in AI, data analytics, IoT, and phygital marketing.
+- Essential soft skills such as adaptability, agility, resilience, and collaboration.
+- The capacity to create sustainable value in an ever-evolving digital landscape.
+
+**Key Features:**
+
+- **Flexible Learning:** Hybrid programme with intensive five-week modules combining weekend classes, online seminars, and self-paced content for working professionals.
+- **Cross-Disciplinary Approach:** Integrates technology, psychology, analytics, design, and communication for strategic, well-rounded marketing expertise.
+- **Continuous Growth:** Develops self-directed learning skills to help graduates adapt and thrive in evolving digital marketing landscapes.
+
+---
+
+## Recent News & Events
+
+:::{#recent-events}
+:::
+
+[See all events →](events.qmd)

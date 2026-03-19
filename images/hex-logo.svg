@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Hex Background -->
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#DAA520"/>
+      <stop offset="100%" style="stop-color:#B8860B"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Hex Background -->
+  <path d="M100 20
+           L168.3 60
+           L168.3 140
+           L100 180
+           L31.7 140
+           L31.7 60 Z"
+        fill="url(#goldGradient)"
+        stroke="#966F33"
+        stroke-width="2"/>
+
+  <!-- Stylized Library Interior -->
+  <path d="M60 140 C80 140, 120 140, 140 140"
+        stroke="#8B4513"
+        stroke-width="2"
+        fill="none"/>
+
+  <!-- Curved Architecture Lines -->
+  <path d="M70 130 Q100 120, 130 130" stroke="#DAA520" stroke-width="3" fill="none"/>
+  <path d="M65 120 Q100 110, 135 120" stroke="#DAA520" stroke-width="3" fill="none"/>
+  <path d="M60 110 Q100 100, 140 110" stroke="#DAA520" stroke-width="3" fill="none"/>
+  <path d="M55 100 Q100 90, 145 100" stroke="#DAA520" stroke-width="3" fill="none"/>
+  <path d="M50 90 Q100 80, 150 90" stroke="#DAA520" stroke-width="3" fill="none"/>
+
+  <!-- Center Light (moved higher) -->
+  <path d="M85 30 L115 30 L100 60 Z" fill="#FFFFFF" opacity="0.6"/>
+
+  <!-- Enlarged Two-line Centered Text -->
+  <text x="100" y="95"
+        font-family="Arial, sans-serif"
+        font-size="20"
+        font-weight="bold"
+        text-anchor="middle"
+        fill="#FFFFFF">
+    Experiential
+  </text>
+  <text x="100" y="125"
+        font-family="Arial, sans-serif"
+        font-size="20"
+        font-weight="bold"
+        text-anchor="middle"
+        fill="#FFFFFF">
+    Digital
+  </text>
+</svg>

@@ -1,0 +1,12 @@
+---
+title: "Programme Structure"
+listing:
+  contents: data/courses.yml
+  template: _templates/course-card.ejs.md
+---
+
+## Programme Information
+
+- **Language of Instruction:** English
+- **Total Tuition Fees:** €7,500
+- **Length of Study:** 3 semesters

@@ -1,0 +1,13 @@
+---
+title: "Admission Requirements"
+---
+
+The XDMarComs MSc is an elite program designed on the basis of state-of-the-art educational design principles and using teaching techniques which combine academic rigour with practical application. It values both academic achievement and professional experience and provides a personalized learning environment, tailored to individual needs and aspirations. It offers a traditional, academic entry pathway and a professional one.
+
+| Requirement | Academic Route | Professional Route |
+|---|---|---|
+| **Educational Qualifications** | 4-year Bachelor's degree (≥ 6.5/10) or 3-year Bachelor's (≥ 2:2 Honours), obtained within the past 5 years | Bachelor's degree + 3 years work experience, or 10 years work experience |
+| **English Language** | English language proficiency | English language proficiency or CUT exam |
+| **Digital Literacy** | ECDL or university courses | ECDL |
+| **Recommendation** | 2 letters (academic) | 2 letters (academic or from employers) |
+| **CV** | Curriculum Vitae | Curriculum Vitae |

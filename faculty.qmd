@@ -1,0 +1,6 @@
+---
+title: "Faculty"
+listing:
+  contents: data/faculty.yml
+  template: _templates/faculty-card.ejs.md
+---

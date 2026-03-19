@@ -1,0 +1,8 @@
+---
+title: "News & Events"
+listing:
+  contents: events
+  type: default
+  sort: "date desc"
+  fields: [image, date, title, description]
+---

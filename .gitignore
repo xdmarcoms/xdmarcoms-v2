@@ -1,0 +1,3 @@
+/.quarto/
+*_files/
+# Do NOT ignore _site — commit it for Netlify static serving

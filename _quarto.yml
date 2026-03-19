@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "XDMarComs"
+  site-url: "https://xdmarcoms.github.io"
+  navbar:
+    left:
+      - href: programme.qmd
+        text: Programme Structure
+      - href: faculty.qmd
+        text: Faculty
+      - href: requirements.qmd
+        text: Requirements
+      - href: applications.qmd
+        text: Applications Process
+      - href: events.qmd
+        text: News & Events
+    logo: images/cutlogoo.png
+    background: "#1d2e3f"
+    foreground: white
+
+format:
+  html:
+    theme:
+      - flatly
+      - styles.css
+    toc: false
