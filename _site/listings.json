@@ -23,6 +23,15 @@
   },
   {
     "listing": "/faculty.html",
-    "items": []
+    "items": [
+      "/faculty/anna-zarkada.html",
+      "/faculty/christiana-tsaousi.html",
+      "/faculty/costas-djouvas.html",
+      "/faculty/erasmia-leonidou.html",
+      "/faculty/maria-voutsa.html",
+      "/faculty/nikandros-ioannidis.html",
+      "/faculty/vasiliki-triga.html",
+      "/faculty/yioula-melanthiou.html"
+    ]
   }
 ]

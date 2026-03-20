@@ -1,0 +1,12 @@
+---
+title: "Maria Voutsa"
+subtitle: "Special Teaching Staff"
+image: ../images/voutsa.jpg
+---
+
+- PhD in Advertising and Consumer Behavior (AUTH)
+- Research in advertising effectiveness, digital media
+- Coordinator of AD.CUT student team
+- Publications in peer-reviewed journals (JCB, IJIMA)
+
+[View profile](https://www.cut.ac.cy/faculties/comm/pc/staff/Maria+Voutsa/?languageId=1)

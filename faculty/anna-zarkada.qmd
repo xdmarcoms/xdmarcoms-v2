@@ -1,0 +1,12 @@
+---
+title: "Anna Zarkada"
+subtitle: "Associate Professor"
+image: ../images/zarkada.jpg
+---
+
+- PhD in Services Science (QUT, Australia)
+- Taught across Europe, Asia, and Australia
+- 100+ academic publications and awards
+- Expert in corporate culture and sustainability
+
+[View profile](https://www.cut.ac.cy/faculties/comm/pc/staff/%CE%86%CE%BD%CE%BD%CE%B1+%CE%96%CE%B1%CF%81%CE%BA%CE%AC%CE%B4%CE%B1/?languageId=1)

@@ -2,7 +2,8 @@
 title: "Programme Structure"
 listing:
   contents: data/courses.yml
-  template: _templates/course-card.ejs.md
+  type: default
+  fields: [title, subtitle, description]
 ---
 
 ## Programme Information

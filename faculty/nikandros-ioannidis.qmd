@@ -1,0 +1,12 @@
+---
+title: "Nikandros Ioannidis"
+subtitle: "Special Teaching Staff"
+image: ../images/ioannides.jpg
+---
+
+- PhD from Pompeu Fabra University, Spain
+- Focus on political communication and technology
+- Publications in top international journals
+- Awarded by the President of Cyprus for excellence
+
+[View profile](https://www.cut.ac.cy/faculties/comm/pc/staff/nikandros.ioannidis/?languageId=1)

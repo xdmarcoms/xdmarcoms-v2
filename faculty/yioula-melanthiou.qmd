@@ -1,0 +1,12 @@
+---
+title: "Yioula Melanthiou"
+subtitle: "Associate Professor"
+image: ../images/melanthiou.png
+---
+
+- PhD in Marketing (University of Manchester)
+- Experience in teaching and doctoral supervision
+- Research in Social Media Marketing, Consumer Behaviour
+- Former Research Director in a multinational company
+
+[View profile](https://www.cut.ac.cy/faculties/comm/pc/staff/Yioula+Melanthiou/?languageId=1)

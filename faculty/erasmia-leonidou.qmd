@@ -1,0 +1,11 @@
+---
+title: "Erasmia Leonidou"
+subtitle: "Lecturer"
+image: ../images/leonidou.jpg
+---
+
+- DBA in Intercultural Communication
+- BA in History and Archaeology (University of Cyprus)
+- 20+ publications in CSR, HRM, and Marketing
+
+[View profile](https://www.cut.ac.cy/faculties/comm/pc/staff/erasmia.leonidou/?languageId=1)
