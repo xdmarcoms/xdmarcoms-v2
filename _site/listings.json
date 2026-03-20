@@ -1,14 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/events/lobbying-cyprus.html",
-      "/events/wine-tourism.html",
-      "/events/intercultural-comms.html",
-      "/events/india-marketing.html"
-    ]
-  },
-  {
     "listing": "/events.html",
     "items": [
       "/events/lobbying-cyprus.html",
