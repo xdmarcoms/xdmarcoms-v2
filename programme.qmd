@@ -2,70 +2,117 @@
 title: "Programme Structure"
 ---
 
-**Language of Instruction:** English  
+::: {.columns}
 
-**Total Tuition Fees:** €7,500  
+::: {.column width="33%"}
+#### Language
+English
+:::
 
-**Length of Study:** 3 semesters
+::: {.column width="34%"}
+#### Tuition Fees
+€7,500 (total)
+:::
 
+::: {.column width="33%"}
+#### Duration
+3 semesters
+:::
 
+:::
 
-## Value-Based Marketing
+---
+
+The MSc in Experiential Digital Marketing Communications comprises 10 courses delivered as intensive five-week modules combining weekend classes, online seminars, and self-paced content.
+
+::: {.panel-tabset}
+
+## Strategy & Ethics
+
+### Value-Based Marketing
 
 Students master cutting-edge marketing strategies by analyzing real-world cases, developing data-driven insights, and designing customer-centric campaigns. They leave prepared to drive growth, build powerful brands, and lead innovation in dynamic global markets.
 
-*Objective: Understand and apply value-driven marketing strategies.*
+::: {.callout-tip appearance="simple"}
+**Objective:** Understand and apply value-driven marketing strategies.
+:::
 
-## Data and Digital Literacy
-
-Students develop hands-on expertise with R by analyzing real consumer data, extracting actionable insights, and applying advanced methods like conjoint analysis. They finish by delivering an independent marketing project.
-
-*Objective: Develop skills in data-driven marketing analysis using R.*
-
-## Agile and Sustainable Marketing Strategies
+### Agile and Sustainable Marketing Strategies
 
 Students explore ethical marketing, sustainability, and stakeholder engagement, gaining the tools to lead with integrity in a connected world. They learn to manage responsible communication and promote digital well-being.
 
-*Objective: Master agility, sustainability, and ethics in marketing.*
+::: {.callout-tip appearance="simple"}
+**Objective:** Master agility, sustainability, and ethics in marketing.
+:::
 
-## Internet of Things (IoT) in Marketing
-
-Students investigate how IoT devices, X-realities, and mobile apps transform consumer behavior and market intelligence. Through hands-on workshops, they design personalized consumer experiences integrating innovation with social responsibility.
-
-*Objective: Learn to leverage IoT, X-realities, and mobile apps in marketing.*
-
-## Content Creation and Management
-
-Students gain practical skills using Google Forms and RStudio to design surveys, analyze data, and create visually compelling dashboards. They acquire hands-on experience in content management and data visualization.
-
-*Objective: Develop skills in creating engaging digital content and visualizations.*
-
-## Experiential Marketing
+### Experiential Marketing
 
 Students learn to design experiential marketing campaigns that blend physical and digital touchpoints. They apply technologies like Big Data, AI, and X-realities to create engaging, interactive brand experiences.
 
-*Objective: Learn to create interactive, hybrid brand experiences.*
+::: {.callout-tip appearance="simple"}
+**Objective:** Learn to create interactive, hybrid brand experiences.
+:::
 
-## Reputation and Media Management
+## Data & Technology
 
-Students develop the skills to manage public image, communication channels, and stakeholder relationships. They engage with public relations, guerrilla marketing, and crisis communication to protect brand reputation.
+### Data and Digital Literacy
 
-*Objective: Master techniques for managing brand reputation.*
+Students develop hands-on expertise with R by analyzing real consumer data, extracting actionable insights, and applying advanced methods like conjoint analysis. They finish by delivering an independent marketing project.
 
-## Data Analysis and AI
+::: {.callout-tip appearance="simple"}
+**Objective:** Develop skills in data-driven marketing analysis using R.
+:::
+
+### Internet of Things (IoT) in Marketing
+
+Students investigate how IoT devices, X-realities, and mobile apps transform consumer behavior and market intelligence. Through hands-on workshops, they design personalized consumer experiences integrating innovation with social responsibility.
+
+::: {.callout-tip appearance="simple"}
+**Objective:** Learn to leverage IoT, X-realities, and mobile apps in marketing.
+:::
+
+### Data Analysis and AI
 
 Students acquire skills to analyze data and leverage digital tools, including gamified applications and AR technologies, to extract actionable consumer insights and inform strategic marketing decisions.
 
-*Objective: Apply AI tools and digital media analysis in marketing.*
+::: {.callout-tip appearance="simple"}
+**Objective:** Apply AI tools and digital media analysis in marketing.
+:::
 
-## Academic Research Design and Consulting Practice
+## Communication & Content
+
+### Content Creation and Management
+
+Students gain practical skills using Google Forms and RStudio to design surveys, analyze data, and create visually compelling dashboards. They acquire hands-on experience in content management and data visualization.
+
+::: {.callout-tip appearance="simple"}
+**Objective:** Develop skills in creating engaging digital content and visualizations.
+:::
+
+### Reputation and Media Management
+
+Students develop the skills to manage public image, communication channels, and stakeholder relationships. They engage with public relations, guerrilla marketing, and crisis communication to protect brand reputation.
+
+::: {.callout-tip appearance="simple"}
+**Objective:** Master techniques for managing brand reputation.
+:::
+
+## Research & Practice
+
+### Academic Research Design and Consulting Practice
 
 Students learn research design, data collection methods, and consulting practices through hands-on projects. They tackle real-world consulting scenarios, culminating in a research or consulting proposal.
 
-*Objective: Develop skills in research design and consulting.*
+::: {.callout-tip appearance="simple"}
+**Objective:** Develop skills in research design and consulting.
+:::
 
-## Special Topics
+### Special Topics
 
 Students engage with contemporary trends in experiential digital marketing, analyzing the latest research and industry practices. They develop critical skills to evaluate the impact of marketing strategies on societal outcomes.
 
-*Objective: Explore trends and issues in experiential digital marketing.*
+::: {.callout-tip appearance="simple"}
+**Objective:** Explore trends and issues in experiential digital marketing.
+:::
+
+:::

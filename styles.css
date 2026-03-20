@@ -133,16 +133,7 @@ a:hover {
   margin-bottom: 0;
 }
 
-.hero-banner::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: url('images/hero-background.jpg') center / cover no-repeat;
-  filter: blur(4px);
-  transform: scale(1.05); /* prevent blur white edges */
-  z-index: 0;
-}
-
+/* Dark overlay — sits above images, below text */
 .hero-banner::after {
   content: "";
   position: absolute;
@@ -151,9 +142,47 @@ a:hover {
   z-index: 1;
 }
 
+/* All direct children (text) above the overlay */
 .hero-banner > * {
   position: relative;
   z-index: 2;
+}
+
+/* Crossfade images behind the overlay */
+.hero-banner .crossfade-img.img-fluid {
+  position: absolute;
+  inset: -8px;           /* bleed past edges to hide blur fringe */
+  width: calc(100% + 16px);
+  height: calc(100% + 16px);
+  max-width: none;
+  object-fit: cover;
+  filter: blur(4px);
+  opacity: 0;
+  animation: crossfade 24s linear infinite;
+  z-index: 0;
+}
+
+.hero-banner .crossfade-img:nth-child(1) { animation-delay: 0s; }
+.hero-banner .crossfade-img:nth-child(2) { animation-delay: 6s; }
+.hero-banner .crossfade-img:nth-child(3) { animation-delay: 12s; }
+.hero-banner .crossfade-img:nth-child(4) { animation-delay: 18s; }
+
+/* Quarto wraps images in <p> — flatten wrapper */
+.hero-banner > p:has(.crossfade-img) {
+  position: absolute;
+  inset: 0;
+  margin: 0;
+  z-index: 0;
+}
+
+/* Each image visible for ~6s of the 24s cycle:
+   fade in 1s → hold 4s → fade out 1s → hidden rest */
+@keyframes crossfade {
+  0%      { opacity: 0; }
+  4.17%   { opacity: 1; }
+  20.83%  { opacity: 1; }
+  25%     { opacity: 0; }
+  100%    { opacity: 0; }
 }
 
 .hero-banner h1 {
@@ -205,17 +234,8 @@ a:hover {
   color: white;
 }
 
-.section-dark-bg .quarto-listing .card {
-  background: rgba(255, 255, 255, 0.95);
-  color: var(--text-main);
-}
-
 .bg-about {
   background-image: url('images/pic2.jpg');
-}
-
-.bg-events {
-  background-image: url('images/pic3.jpg');
 }
 
 /* ── 9. CTA band ─────────────────────────────────── */
@@ -245,4 +265,41 @@ a:hover {
 .btn-hero:hover {
   background: #1a6fa0;
   color: white;
+}
+
+/* ── 10. Photo ticker strip ──────────────────────── */
+/* Continuous horizontal scroll of event photos.
+   Images are duplicated in the markup for seamless loop. */
+.photo-ticker {
+  overflow: hidden;
+  background: var(--brand-dark);
+  padding: 1rem 0;
+}
+
+/* Quarto wraps all images in a single <p> —
+   make that <p> the flex track */
+.photo-ticker .ticker-track p {
+  display: flex;
+  gap: 1rem;
+  margin: 0;
+  width: max-content;
+  animation: ticker 40s linear infinite;
+}
+
+.photo-ticker .ticker-track img {
+  display: block;
+  height: 140px;
+  width: auto;
+  border-radius: var(--radius);
+  object-fit: cover;
+}
+
+@keyframes ticker {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+/* Pause on hover for accessibility */
+.photo-ticker:hover .ticker-track {
+  animation-play-state: paused;
 }

@@ -1,16 +1,15 @@
 ---
 title: ""
 page-layout: full
-listing:
-  - id: recent-events
-    contents: events
-    type: grid
-    max-items: 2
-    sort: "date desc"
-    fields: [image, date, title, description]
 ---
 
 ::: {.hero-banner}
+
+![](images/a2.jpg){.crossfade-img}
+![](images/b3.jpg){.crossfade-img}
+![](images/c4.jpg){.crossfade-img}
+![](images/d2.jpg){.crossfade-img}
+
 # MSc in Experiential Digital Marketing Communications
 
 **XDMarComs @ CUT** · Cyprus University of Technology
@@ -38,11 +37,23 @@ Ready to advance your career in digital marketing?
 [Apply Now](applications.qmd){.btn-hero}
 :::
 
-::: {.section-dark-bg .bg-events}
-## Recent News & Events
-
-:::{#recent-events}
-:::
-
-[See all events →](events.qmd)
+::: {.photo-ticker}
+:::: {.ticker-track}
+![](images/a1.jpg)
+![](images/b2.jpg)
+![](images/c3.jpg)
+![](images/d1.jpg)
+![](images/a3.jpg)
+![](images/b5.jpg)
+![](images/c6.jpg)
+![](images/d3.jpg)
+![](images/a1.jpg)
+![](images/b2.jpg)
+![](images/c3.jpg)
+![](images/d1.jpg)
+![](images/a3.jpg)
+![](images/b5.jpg)
+![](images/c6.jpg)
+![](images/d3.jpg)
+::::
 :::
