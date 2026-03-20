@@ -2,6 +2,7 @@
 title: "Erasmia Leonidou"
 subtitle: "Lecturer"
 image: ../images/leonidou.jpg
+description: "DBA in Intercultural Communication. BA in History and Archaeology (University of Cyprus). 20+ publications in CSR, HRM, and Marketing."
 ---
 
 - DBA in Intercultural Communication

@@ -2,6 +2,7 @@
 title: "Vasiliki Triga"
 subtitle: "Associate Professor"
 image: ../images/trigka.jpg
+description: "PhD from European University Institute, Florence. Research in political communication and referendums. Founder of DigiPols Research Lab."
 ---
 
 - PhD from European University Institute, Florence

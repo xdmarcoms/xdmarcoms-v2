@@ -2,6 +2,7 @@
 title: "Costas Djouvas"
 subtitle: "Associate Professor"
 image: ../images/costas.jpg
+description: "PhD from City University of New York, funded by NSF. Collaborated with MIT and Naval Research Lab. Research on Big Data and socio-cultural phenomena."
 ---
 
 - PhD from City University of New York, funded by NSF

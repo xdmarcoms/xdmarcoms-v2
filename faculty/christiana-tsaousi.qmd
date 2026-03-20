@@ -2,6 +2,7 @@
 title: "Christiana Tsaousi"
 subtitle: "Programme Coordinator, Lecturer in Consumer Culture"
 image: ../images/tsiaousi.jpg
+description: "PhD in Sociology of Consumption (University of Leicester). Research on consumer culture, identity, feminism, gender, fashion, and media."
 ---
 
 - PhD in Sociology of Consumption (University of Leicester)

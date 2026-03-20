@@ -2,6 +2,7 @@
 title: "Nikandros Ioannidis"
 subtitle: "Special Teaching Staff"
 image: ../images/ioannides.jpg
+description: "PhD from Pompeu Fabra University, Spain. Research on political communication and technology. Awarded by the President of Cyprus for academic excellence."
 ---
 
 - PhD from Pompeu Fabra University, Spain

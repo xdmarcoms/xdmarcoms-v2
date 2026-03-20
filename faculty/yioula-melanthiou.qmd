@@ -2,6 +2,7 @@
 title: "Yioula Melanthiou"
 subtitle: "Associate Professor"
 image: ../images/melanthiou.png
+description: "PhD in Marketing (University of Manchester). Research in Social Media Marketing and Consumer Behaviour. Former Research Director in a multinational company."
 ---
 
 - PhD in Marketing (University of Manchester)

@@ -2,6 +2,7 @@
 title: "Maria Voutsa"
 subtitle: "Special Teaching Staff"
 image: ../images/voutsa.jpg
+description: "PhD in Advertising and Consumer Behavior (AUTH). Research in advertising effectiveness and digital media. Coordinator of AD.CUT student team."
 ---
 
 - PhD in Advertising and Consumer Behavior (AUTH)

@@ -123,14 +123,77 @@
     "href": "programme.html",
     "title": "Programme Structure",
     "section": "",
-    "text": "Language of Instruction: English\nTotal Tuition Fees: €7,500\nLength of Study: 3 semesters"
+    "text": "Language of Instruction: English · Total Tuition Fees: €7,500 · Length of Study: 3 semesters"
   },
   {
-    "objectID": "programme.html#programme-information",
-    "href": "programme.html#programme-information",
+    "objectID": "programme.html#value-based-marketing",
+    "href": "programme.html#value-based-marketing",
     "title": "Programme Structure",
-    "section": "",
-    "text": "Language of Instruction: English\nTotal Tuition Fees: €7,500\nLength of Study: 3 semesters"
+    "section": "Value-Based Marketing",
+    "text": "Value-Based Marketing\nStudents master cutting-edge marketing strategies by analyzing real-world cases, developing data-driven insights, and designing customer-centric campaigns. They leave prepared to drive growth, build powerful brands, and lead innovation in dynamic global markets.\nObjective: Understand and apply value-driven marketing strategies."
+  },
+  {
+    "objectID": "programme.html#data-and-digital-literacy",
+    "href": "programme.html#data-and-digital-literacy",
+    "title": "Programme Structure",
+    "section": "Data and Digital Literacy",
+    "text": "Data and Digital Literacy\nStudents develop hands-on expertise with R by analyzing real consumer data, extracting actionable insights, and applying advanced methods like conjoint analysis. They finish by delivering an independent marketing project.\nObjective: Develop skills in data-driven marketing analysis using R."
+  },
+  {
+    "objectID": "programme.html#agile-and-sustainable-marketing-strategies",
+    "href": "programme.html#agile-and-sustainable-marketing-strategies",
+    "title": "Programme Structure",
+    "section": "Agile and Sustainable Marketing Strategies",
+    "text": "Agile and Sustainable Marketing Strategies\nStudents explore ethical marketing, sustainability, and stakeholder engagement, gaining the tools to lead with integrity in a connected world. They learn to manage responsible communication and promote digital well-being.\nObjective: Master agility, sustainability, and ethics in marketing."
+  },
+  {
+    "objectID": "programme.html#internet-of-things-iot-in-marketing",
+    "href": "programme.html#internet-of-things-iot-in-marketing",
+    "title": "Programme Structure",
+    "section": "Internet of Things (IoT) in Marketing",
+    "text": "Internet of Things (IoT) in Marketing\nStudents investigate how IoT devices, X-realities, and mobile apps transform consumer behavior and market intelligence. Through hands-on workshops, they design personalized consumer experiences integrating innovation with social responsibility.\nObjective: Learn to leverage IoT, X-realities, and mobile apps in marketing."
+  },
+  {
+    "objectID": "programme.html#content-creation-and-management",
+    "href": "programme.html#content-creation-and-management",
+    "title": "Programme Structure",
+    "section": "Content Creation and Management",
+    "text": "Content Creation and Management\nStudents gain practical skills using Google Forms and RStudio to design surveys, analyze data, and create visually compelling dashboards. They acquire hands-on experience in content management and data visualization.\nObjective: Develop skills in creating engaging digital content and visualizations."
+  },
+  {
+    "objectID": "programme.html#experiential-marketing",
+    "href": "programme.html#experiential-marketing",
+    "title": "Programme Structure",
+    "section": "Experiential Marketing",
+    "text": "Experiential Marketing\nStudents learn to design experiential marketing campaigns that blend physical and digital touchpoints. They apply technologies like Big Data, AI, and X-realities to create engaging, interactive brand experiences.\nObjective: Learn to create interactive, hybrid brand experiences."
+  },
+  {
+    "objectID": "programme.html#reputation-and-media-management",
+    "href": "programme.html#reputation-and-media-management",
+    "title": "Programme Structure",
+    "section": "Reputation and Media Management",
+    "text": "Reputation and Media Management\nStudents develop the skills to manage public image, communication channels, and stakeholder relationships. They engage with public relations, guerrilla marketing, and crisis communication to protect brand reputation.\nObjective: Master techniques for managing brand reputation."
+  },
+  {
+    "objectID": "programme.html#data-analysis-and-ai",
+    "href": "programme.html#data-analysis-and-ai",
+    "title": "Programme Structure",
+    "section": "Data Analysis and AI",
+    "text": "Data Analysis and AI\nStudents acquire skills to analyze data and leverage digital tools, including gamified applications and AR technologies, to extract actionable consumer insights and inform strategic marketing decisions.\nObjective: Apply AI tools and digital media analysis in marketing."
+  },
+  {
+    "objectID": "programme.html#academic-research-design-and-consulting-practice",
+    "href": "programme.html#academic-research-design-and-consulting-practice",
+    "title": "Programme Structure",
+    "section": "Academic Research Design and Consulting Practice",
+    "text": "Academic Research Design and Consulting Practice\nStudents learn research design, data collection methods, and consulting practices through hands-on projects. They tackle real-world consulting scenarios, culminating in a research or consulting proposal.\nObjective: Develop skills in research design and consulting."
+  },
+  {
+    "objectID": "programme.html#special-topics",
+    "href": "programme.html#special-topics",
+    "title": "Programme Structure",
+    "section": "Special Topics",
+    "text": "Special Topics\nStudents engage with contemporary trends in experiential digital marketing, analyzing the latest research and industry practices. They develop critical skills to evaluate the impact of marketing strategies on societal outcomes.\nObjective: Explore trends and issues in experiential digital marketing."
   },
   {
     "objectID": "faculty/erasmia-leonidou.html",
@@ -200,6 +263,6 @@
     "href": "faculty.html",
     "title": "Faculty",
     "section": "",
-    "text": "Anna Zarkada\n\n\nAssociate Professor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nChristiana Tsaousi\n\n\nProgramme Coordinator, Lecturer in Consumer Culture\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCostas Djouvas\n\n\nAssociate Professor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nErasmia Leonidou\n\n\nLecturer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Voutsa\n\n\nSpecial Teaching Staff\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikandros Ioannidis\n\n\nSpecial Teaching Staff\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVasiliki Triga\n\n\nAssociate Professor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYioula Melanthiou\n\n\nAssociate Professor\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Anna Zarkada\n\n\nAssociate Professor\n\n\nPhD in Services Science (QUT, Australia). 100+ academic publications. Expert in corporate culture and sustainability, with teaching experience across Europe, Asia, and…\n\n\n\n\n\n\n\n\n\n\n\n\n\nChristiana Tsaousi\n\n\nProgramme Coordinator, Lecturer in Consumer Culture\n\n\nPhD in Sociology of Consumption (University of Leicester). Research on consumer culture, identity, feminism, gender, fashion, and media.\n\n\n\n\n\n\n\n\n\n\n\n\n\nCostas Djouvas\n\n\nAssociate Professor\n\n\nPhD from City University of New York, funded by NSF. Collaborated with MIT and Naval Research Lab. Research on Big Data and socio-cultural phenomena.\n\n\n\n\n\n\n\n\n\n\n\n\n\nErasmia Leonidou\n\n\nLecturer\n\n\nDBA in Intercultural Communication. BA in History and Archaeology (University of Cyprus). 20+ publications in CSR, HRM, and Marketing.\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaria Voutsa\n\n\nSpecial Teaching Staff\n\n\nPhD in Advertising and Consumer Behavior (AUTH). Research in advertising effectiveness and digital media. Coordinator of AD.CUT student team.\n\n\n\n\n\n\n\n\n\n\n\n\n\nNikandros Ioannidis\n\n\nSpecial Teaching Staff\n\n\nPhD from Pompeu Fabra University, Spain. Research on political communication and technology. Awarded by the President of Cyprus for academic excellence.\n\n\n\n\n\n\n\n\n\n\n\n\n\nVasiliki Triga\n\n\nAssociate Professor\n\n\nPhD from European University Institute, Florence. Research in political communication and referendums. Founder of DigiPols Research Lab.\n\n\n\n\n\n\n\n\n\n\n\n\n\nYioula Melanthiou\n\n\nAssociate Professor\n\n\nPhD in Marketing (University of Manchester). Research in Social Media Marketing and Consumer Behaviour. Former Research Director in a multinational company.\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
