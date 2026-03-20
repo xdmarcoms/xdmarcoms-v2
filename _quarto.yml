@@ -20,6 +20,13 @@ website:
     logo: images/cutlogoo.png
     background: "#1d2e3f"
     foreground: white
+  page-footer:
+    center: |
+      © 2026 XDMARCOMS. All rights reserved |
+      [Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement){target="_blank" rel="noopener noreferrer"} |
+      [Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service){target="_blank" rel="noopener noreferrer"}
+    background: "#2f4154"
+    foreground: "#cccccc"
 
 format:
   html:

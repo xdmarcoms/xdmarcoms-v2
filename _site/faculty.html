@@ -40,7 +40,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-efbd8720918b2d8926e1e527f63cf7ac.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6634ebdf8d1c22400d9cf953282b9eaf.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -78,9 +78,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-name','listing-role','listing-image','listing-bio','listing-url',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-name","listing-role","listing-image","listing-bio","listing-url"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -208,167 +208,207 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1773992066415" data-listing-reading-time-sort="1" data-listing-word-count-sort="25">
-<a href="./faculty/anna-zarkada.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/zarkada.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Anna Zarkada
-</h5>
-<div class="card-subtitle listing-subtitle">
-Associate Professor
-</div>
-<div class="card-text listing-description">
-PhD in Services Science (QUT, Australia). 100+ academic publications. Expert in corporate culture and sustainability, with teaching experience across Europe, Asia, and…
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1773992064821" data-listing-reading-time-sort="1" data-listing-word-count-sort="29">
-<a href="./faculty/christiana-tsaousi.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/tsiaousi.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
+<div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
+<div class="member-card">
+<img src="images/tsiaousi.jpg" alt="Christiana Tsaousi">
+<div class="member-info">
+<h3 class="anchored">
 Christiana Tsaousi
-</h5>
-<div class="card-subtitle listing-subtitle">
+</h3>
+<p class="role">
 Programme Coordinator, Lecturer in Consumer Culture
-</div>
-<div class="card-text listing-description">
-PhD in Sociology of Consumption (University of Leicester). Research on consumer culture, identity, feminism, gender, fashion, and media.
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1773992071028" data-listing-reading-time-sort="1" data-listing-word-count-sort="26">
-<a href="./faculty/costas-djouvas.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/costas.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Costas Djouvas
-</h5>
-<div class="card-subtitle listing-subtitle">
+<ul>
+<li>
+PhD in Sociology of Consumption (University of Leicester)
+</li>
+<li>
+Taught at Bournemouth, Leicester, Coventry, Royal Holloway
+</li>
+<li>
+Research on consumer culture and identity
+</li>
+<li>
+Focuses on feminism, gender, fashion, media
+</li>
+</ul>
+<p><a href="https://www.cut.ac.cy/faculties/comm/pc/staff/christiana.tsaousi/?languageId=1" target="_blank" rel="noopener noreferrer">Learn more →</a></p>
+</div>
+</div>
+<div class="member-card">
+<img src="images/zarkada.jpg" alt="Anna Zarkada">
+<div class="member-info">
+<h3 class="anchored">
+Anna Zarkada
+</h3>
+<p class="role">
 Associate Professor
-</div>
-<div class="card-text listing-description">
-PhD from City University of New York, funded by NSF. Collaborated with MIT and Naval Research Lab. Research on Big Data and socio-cultural phenomena.
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1773992075293" data-listing-reading-time-sort="1" data-listing-word-count-sort="21">
-<a href="./faculty/erasmia-leonidou.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/leonidou.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Erasmia Leonidou
-</h5>
-<div class="card-subtitle listing-subtitle">
-Lecturer
-</div>
-<div class="card-text listing-description">
-DBA in Intercultural Communication. BA in History and Archaeology (University of Cyprus). 20+ publications in CSR, HRM, and Marketing.
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1773992079879" data-listing-reading-time-sort="1" data-listing-word-count-sort="26">
-<a href="./faculty/maria-voutsa.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/voutsa.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Maria Voutsa
-</h5>
-<div class="card-subtitle listing-subtitle">
-Special Teaching Staff
-</div>
-<div class="card-text listing-description">
-PhD in Advertising and Consumer Behavior (AUTH). Research in advertising effectiveness and digital media. Coordinator of AD.CUT student team.
+<ul>
+<li>
+PhD in Services Science (QUT, Australia)
+</li>
+<li>
+Taught across Europe, Asia, and Australia
+</li>
+<li>
+100+ academic publications and awards
+</li>
+<li>
+Expert in corporate culture and sustainability
+</li>
+</ul>
+<p><a href="https://www.cut.ac.cy/faculties/comm/pc/staff/%CE%86%CE%BD%CE%BD%CE%B1+%CE%96%CE%B1%CF%81%CE%BA%CE%AC%CE%B4%CE%B1/?languageId=1" target="_blank" rel="noopener noreferrer">Learn more →</a></p>
 </div>
 </div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1773992077685" data-listing-reading-time-sort="1" data-listing-word-count-sort="27">
-<a href="./faculty/nikandros-ioannidis.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/ioannides.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Nikandros Ioannidis
-</h5>
-<div class="card-subtitle listing-subtitle">
-Special Teaching Staff
-</div>
-<div class="card-text listing-description">
-PhD from Pompeu Fabra University, Spain. Research on political communication and technology. Awarded by the President of Cyprus for academic excellence.
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1773992069110" data-listing-reading-time-sort="1" data-listing-word-count-sort="24">
-<a href="./faculty/vasiliki-triga.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/trigka.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
+<div class="member-card">
+<img src="images/trigka.jpg" alt="Vasiliki Triga">
+<div class="member-info">
+<h3 class="anchored">
 Vasiliki Triga
-</h5>
-<div class="card-subtitle listing-subtitle">
+</h3>
+<p class="role">
 Associate Professor
-</div>
-<div class="card-text listing-description">
-PhD from European University Institute, Florence. Research in political communication and referendums. Founder of DigiPols Research Lab.
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1773992072957" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
-<a href="./faculty/yioula-melanthiou.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/melanthiou.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Yioula Melanthiou
-</h5>
-<div class="card-subtitle listing-subtitle">
+<ul>
+<li>
+PhD from European University Institute, Florence
+</li>
+<li>
+Taught in Zurich, Paris, Thessaloniki
+</li>
+<li>
+Research in political communication and referendums
+</li>
+<li>
+Founder of DigiPols Research Lab
+</li>
+</ul>
+<p><a href="https://www.cut.ac.cy/faculties/comm/cis/staff/vasiliki.triga/?languageId=1" target="_blank" rel="noopener noreferrer">Learn more →</a></p>
+</div>
+</div>
+<div class="member-card">
+<img src="images/costas.jpg" alt="Costas Djouvas">
+<div class="member-info">
+<h3 class="anchored">
+Costas Djouvas
+</h3>
+<p class="role">
 Associate Professor
+</p>
+<ul>
+<li>
+PhD from City University of New York, funded by NSF
+</li>
+<li>
+Collaborated with MIT and Naval Research Lab
+</li>
+<li>
+Research on Big Data and socio-cultural phenomena
+</li>
+</ul>
+<p><a href="https://www.cut.ac.cy/faculties/comm/cis/staff/costas.tziouvas/?languageId=1#a" target="_blank" rel="noopener noreferrer">Learn more →</a></p>
 </div>
-<div class="card-text listing-description">
-PhD in Marketing (University of Manchester). Research in Social Media Marketing and Consumer Behaviour. Former Research Director in a multinational company.
+</div>
+<div class="member-card">
+<img src="images/melanthiou.png" alt="Yioula Melanthiou">
+<div class="member-info">
+<h3 class="anchored">
+Yioula Melanthiou
+</h3>
+<p class="role">
+Associate Professor
+</p>
+<ul>
+<li>
+PhD in Marketing (University of Manchester)
+</li>
+<li>
+Experience in teaching and doctoral supervision
+</li>
+<li>
+Research in Social Media Marketing, Consumer Behaviour
+</li>
+<li>
+Former Research Director in a multinational company
+</li>
+</ul>
+<p><a href="https://www.cut.ac.cy/faculties/comm/pc/staff/Yioula+Melanthiou/?languageId=1" target="_blank" rel="noopener noreferrer">Learn more →</a></p>
 </div>
 </div>
+<div class="member-card">
+<img src="images/leonidou.jpg" alt="Erasmia Leonidou">
+<div class="member-info">
+<h3 class="anchored">
+Erasmia Leonidou
+</h3>
+<p class="role">
+Lecturer
+</p>
+<ul>
+<li>
+DBA in Intercultural Communication
+</li>
+<li>
+BA in History and Archaeology (University of Cyprus)
+</li>
+<li>
+20+ publications in CSR, HRM, and Marketing
+</li>
+</ul>
+<p><a href="https://www.cut.ac.cy/faculties/comm/pc/staff/erasmia.leonidou/?languageId=1" target="_blank" rel="noopener noreferrer">Learn more →</a></p>
 </div>
-</a>
+</div>
+<div class="member-card">
+<img src="images/ioannides.jpg" alt="Nikandros Ioannidis">
+<div class="member-info">
+<h3 class="anchored">
+Nikandros Ioannidis
+</h3>
+<p class="role">
+Special Teaching Staff
+</p>
+<ul>
+<li>
+PhD from Pompeu Fabra University, Spain
+</li>
+<li>
+Focus on political communication and technology
+</li>
+<li>
+Publications in top international journals
+</li>
+<li>
+Awarded by the President of Cyprus for excellence
+</li>
+</ul>
+<p><a href="https://www.cut.ac.cy/faculties/comm/pc/staff/nikandros.ioannidis/?languageId=1" target="_blank" rel="noopener noreferrer">Learn more →</a></p>
+</div>
+</div>
+<div class="member-card">
+<img src="images/voutsa.jpg" alt="Maria Voutsa">
+<div class="member-info">
+<h3 class="anchored">
+Maria Voutsa
+</h3>
+<p class="role">
+Special Teaching Staff
+</p>
+<ul>
+<li>
+PhD in Advertising and Consumer Behavior (AUTH)
+</li>
+<li>
+Research in advertising effectiveness, digital media
+</li>
+<li>
+Coordinator of AD.CUT student team
+</li>
+<li>
+Publications in peer-reviewed journals (JCB, IJIMA)
+</li>
+</ul>
+<p><a href="https://www.cut.ac.cy/faculties/comm/pc/staff/Maria+Voutsa/?languageId=1" target="_blank" rel="noopener noreferrer">Learn more →</a></p>
 </div>
 </div>
 <div class="listing-no-matching d-none">
@@ -793,6 +833,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>© 2026 XDMARCOMS. All rights reserved | <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener noreferrer">Privacy Policy</a> | <a href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service" target="_blank" rel="noopener noreferrer">Terms of Service</a></p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 

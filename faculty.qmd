@@ -1,8 +1,6 @@
 ---
 title: "Faculty"
 listing:
-  contents: faculty
-  type: grid
-  fields: [image, title, subtitle, description]
-  grid-columns: 3
+  contents: data/faculty.yml
+  template: _templates/faculty-card.ejs.md
 ---
