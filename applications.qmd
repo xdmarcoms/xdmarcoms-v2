@@ -2,21 +2,13 @@
 title: "Application Instructions"
 ---
 
-## Step 1
+1. **Create Your Account** — [Click here to create an account](https://sis2.cut.ac.cy/sap/bc/webdynpro/sap/zcut_wd_st_cr_account?sap-client=300&sap-language=EN#) and enter a valid e-mail address.
 
-[Click here to create an account](https://sis2.cut.ac.cy/sap/bc/webdynpro/sap/zcut_wd_st_cr_account?sap-client=300&sap-language=EN#) and enter a valid e-mail address.
+2. **Set Up Your Profile** — Follow the instructions you receive on your personal e-mail to create your profile in the system. Keep your access codes (username/password) to access the Portal.
 
-## Step 2
+3. **Log In to the Portal** — From [https://sis.cut.ac.cy/irj/portal](https://sis.cut.ac.cy/irj/portal), enter your username and password to access the Portal.
 
-Follow the instructions you receive on your personal e-mail to create your profile in the system. Keep your access codes (username/password) to access the Portal.
-
-## Step 3
-
-From [https://sis.cut.ac.cy/irj/portal](https://sis.cut.ac.cy/irj/portal), enter your username and password to access the Portal and submit your application.
-
-## Step 4
-
-Select the *MSc Experiential and Digital Marketing Communications* programme and attach the required supporting documents.
+4. **Submit Your Application** — Select the *MSc Experiential and Digital Marketing Communications* programme and attach the required supporting documents.
 
 ---
 

@@ -8,15 +8,15 @@ website:
   navbar:
     left:
       - href: programme.qmd
-        text: Programme Structure
+        text: Programme
       - href: faculty.qmd
         text: Faculty
       - href: requirements.qmd
         text: Requirements
-      - href: applications.qmd
-        text: Applications Process
       - href: events.qmd
         text: Events
+      - href: applications.qmd
+        text: Apply
     logo: images/cutlogoo.png
     background: "#1d2e3f"
     foreground: white
