@@ -299,39 +299,83 @@ a:hover {
   color: white;
 }
 
-/* ── 10. Photo ticker strip ──────────────────────── */
-/* Continuous horizontal scroll of event photos.
-   Images are duplicated in the markup for seamless loop. */
-.photo-ticker {
-  overflow: hidden;
+/* ── 10. Highlights carousel ─────────────────────── */
+.highlights-carousel {
   background: var(--brand-dark);
-  padding: 1rem 0;
+  padding: 2.5rem 0 1.5rem;
 }
 
-/* Quarto wraps all images in a single <p> —
-   make that <p> the flex track */
-.photo-ticker .ticker-track p {
-  display: flex;
-  gap: 1rem;
-  margin: 0;
-  width: max-content;
-  animation: ticker 40s linear infinite;
+.highlights-carousel h2 {
+  color: white;
+  text-align: center;
+  margin-bottom: 1.5rem;
 }
 
-.photo-ticker .ticker-track img {
-  display: block;
-  height: 140px;
-  width: auto;
-  border-radius: var(--radius);
+#highlightsCarousel {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Crossfade transition instead of slide */
+#highlightsCarousel.carousel-fade .carousel-item {
+  transition: opacity 0.8s ease-in-out;
+}
+
+#highlightsCarousel .carousel-item img {
+  height: 450px;
   object-fit: cover;
+  border-radius: var(--radius);
 }
 
-@keyframes ticker {
-  0%   { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
+#highlightsCarousel .carousel-caption {
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 0 0 var(--radius) var(--radius);
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 1.25rem 1.5rem;
 }
 
-/* Pause on hover for accessibility */
-.photo-ticker:hover .ticker-track {
-  animation-play-state: paused;
+#highlightsCarousel .carousel-caption h3 {
+  color: white;
+  font-size: 1.1rem;
+  margin-bottom: 0.3rem;
+}
+
+#highlightsCarousel .carousel-caption p {
+  font-size: 0.9rem;
+  opacity: 0.85;
+  margin: 0;
+}
+
+/* Move indicators above the caption */
+#highlightsCarousel .carousel-indicators {
+  bottom: auto;
+  top: 1rem;
+}
+
+#highlightsCarousel a {
+  text-decoration: none;
+  color: white;
+}
+
+.highlights-link {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.highlights-link a {
+  color: #a8d4f5;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.highlights-link a:hover {
+  color: white;
+}
+
+@media (max-width: 640px) {
+  #highlightsCarousel .carousel-item img {
+    height: 280px;
+  }
 }

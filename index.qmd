@@ -42,23 +42,61 @@ Ready to advance your career in digital marketing?
 [Apply Now](applications.qmd){.btn-hero}
 :::
 
-::: {.photo-ticker}
-:::: {.ticker-track}
-![](images/a1.jpg)
-![](images/b2.jpg)
-![](images/c3.jpg)
-![](images/d1.jpg)
-![](images/a3.jpg)
-![](images/b5.jpg)
-![](images/c6.jpg)
-![](images/d3.jpg)
-![](images/a1.jpg)
-![](images/b2.jpg)
-![](images/c3.jpg)
-![](images/d1.jpg)
-![](images/a3.jpg)
-![](images/b5.jpg)
-![](images/c6.jpg)
-![](images/d3.jpg)
-::::
-:::
+<div class="highlights-carousel">
+<h2>Programme Highlights</h2>
+<div id="highlightsCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
+<div class="carousel-indicators">
+<button type="button" data-bs-target="#highlightsCarousel" data-bs-slide-to="0" class="active"></button>
+<button type="button" data-bs-target="#highlightsCarousel" data-bs-slide-to="1"></button>
+<button type="button" data-bs-target="#highlightsCarousel" data-bs-slide-to="2"></button>
+<button type="button" data-bs-target="#highlightsCarousel" data-bs-slide-to="3"></button>
+</div>
+<div class="carousel-inner">
+<div class="carousel-item active">
+<a href="events/lobbying-cyprus.html">
+<img src="images/a1.jpg" class="d-block w-100" alt="Lobbying and Public Affairs in Cyprus">
+<div class="carousel-caption">
+<h3>Lobbying and Public Affairs in Cyprus</h3>
+<p>Mairy Pyrgou on lobbying, government decisions, and public perception.</p>
+</div>
+</a>
+</div>
+<div class="carousel-item">
+<a href="events/wine-tourism.html">
+<img src="images/b1.jpg" class="d-block w-100" alt="Wine Tourism Identity and Image of Cyprus">
+<div class="carousel-caption">
+<h3>Shaping the Wine Tourism Identity of Cyprus</h3>
+<p>A seminar on wine tourism identity and digital branding with ELGO-DIMITRA.</p>
+</div>
+</a>
+</div>
+<div class="carousel-item">
+<a href="events/intercultural-comms.html">
+<img src="images/c1.jpg" class="d-block w-100" alt="Intercultural Communication">
+<div class="carousel-caption">
+<h3>Intercultural Communication — Marcoms in Slovakia</h3>
+<p>Lucia Dančišinová and Eva Beňková on intercultural communication skills.</p>
+</div>
+</a>
+</div>
+<div class="carousel-item">
+<a href="events/india-marketing.html">
+<img src="images/d1.jpg" class="d-block w-100" alt="Marketing and Media Landscapes of India">
+<div class="carousel-caption">
+<h3>The Marketing and Media Landscapes of India</h3>
+<p>Geeta Marmaat on Indian communication strategies and the media landscape.</p>
+</div>
+</a>
+</div>
+</div>
+<button class="carousel-control-prev" type="button" data-bs-target="#highlightsCarousel" data-bs-slide="prev">
+<span class="carousel-control-prev-icon"></span>
+<span class="visually-hidden">Previous</span>
+</button>
+<button class="carousel-control-next" type="button" data-bs-target="#highlightsCarousel" data-bs-slide="next">
+<span class="carousel-control-next-icon"></span>
+<span class="visually-hidden">Next</span>
+</button>
+</div>
+<p class="highlights-link"><a href="events.html">See all highlights &rarr;</a></p>
+</div>
