@@ -16,7 +16,7 @@ website:
       - href: applications.qmd
         text: Applications Process
       - href: events.qmd
-        text: News & Events
+        text: Events
     logo: images/cutlogoo.png
     background: "#1d2e3f"
     foreground: white
